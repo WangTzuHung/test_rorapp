@@ -1,7 +1,7 @@
 # Hello World,First Time To Write ROR
 
-'''ruby
+```ruby
 puts "Hello World"
-'''
+```
 
 And Also My First Markdown!!!
